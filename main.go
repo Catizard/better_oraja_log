@@ -33,7 +33,7 @@ type ScoreDataLog struct {
 	Option     int32
 	Seed       int64
 	Random     int32
-	TimeStamp  int64
+	Date       int64
 	State      int32
 }
 
